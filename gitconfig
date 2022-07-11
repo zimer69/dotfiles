@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dimitrizimer@gmail.com
+	name = Dimitri Zimermann
